@@ -47,4 +47,4 @@ English is configured as the default language. The message returned by the `/no-
 - [express-i8n-example](https://dev.to/bmanley91/express-i18n-made-easy-2d2o)
 - [joi-validation-in-javascript](https://dev.to/pestrinmarco/joi-validation-in-javascript-how-to-translate-the-errors-35p7)
 
-Any recommendations or customizations are appreciated
+Any recommendation or customization is appreciated
